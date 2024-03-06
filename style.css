@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+#navbar{
+    background-color:#ff007f   !important;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    font-weight: 600;
+   
+    
+}
+#navbarSupportedContent a{
+    color: aliceblue;
+    font-weight: 600;
+}
+#navbarSupportedContent a:hover{
+    color: black;
+}
+
+.image{
+    padding-top: 10px;}
+ .three{
+    color: black;
+ }   
+
+.two{
+    padding-bottom: 30.25rem;
+    color: black;
+
+}
+.four{
+    padding-bottom: 27.25rem;
+    color: black;
+}
+.five{
+   padding-bottom: 24.25rem; 
+   font-weight: 800;
+}
+#about{
+    padding-top: 80px;
+    background-color: aliceblue;
+}
+#about img{
+    width: 600px;
+    height: 400px;
+}
+#services{
+    padding-top: 80px;
+    background-color: aliceblue;
+}
+.lit{
+    text-align: center;
+    font-weight: 500;
+}
+#services img{
+    width: 400px;
+    height: 300px;
+}
+.basket{
+    padding-left: 15px;
+    padding-top: 15px;
+
+}
+.basket1{
+    padding-left: 85px;
+}
+.basket2{
+    padding-left: 100px;
+}
+.con{
+    text-align: center;
+}
+.input-group{
+    
+    height: 40px;
+    padding-left: 30%;
+    padding-right: 25%;
+    padding-bottom: 70px;
+}
+.signin{
+    background-color: #29f700 !important;
+    font-weight:800;
+}
+#contactus{
+    padding-top: 40px;
+    background-color:aliceblue;
+}
+#contact h5{
+    padding-bottom: 5px;
+}
+.info .bx{
+   color: #29f700;
+}
+.social-icons {
+    padding-top: 15px;
+      text-align: center;
+}
+.social-icons h3{
+    display: inline-block;
+    padding: 5px;
+}
+.copyright
+{
+    margin-top: 2%;
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+}
+.h{
+    padding-top: 10px;
+    color: aliceblue;
+}
+#f h3:hover{
+    cursor: pointer;
+    color: black;
+}
